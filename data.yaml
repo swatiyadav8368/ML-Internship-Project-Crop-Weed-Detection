@@ -1,0 +1,8 @@
+
+# YOLOv8 Dataset Configuration
+train: crop_weed_data/ # Path to training images relative to this yaml
+val: crop_weed_data/   # Path to validation images relative to this yaml
+# test: crop_weed_data/ # Optional: if you had a separate test set folder here
+
+nc: 2  # Number of classes: crop, weed [cite: 229-231]
+names: ['crop', 'weed'] # Class names in order of their IDs (0, 1) [cite: 229-231]
