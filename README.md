@@ -31,4 +31,4 @@ You can run the entire project by opening the provided Colab notebook.
 
 ### Dataset
 The dataset used in this project can be accessed from the following link:
-- [Link to your dataset on Google Drive]
+- (https://drive.google.com/drive/folders/1gosoWLjTJjhyYZJ7qiZZ9I4jcoEPrfAK?usp=sharing)
